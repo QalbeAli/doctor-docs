@@ -10,6 +10,7 @@ import {
   SignedOut,
   UserButton,
 } from "@clerk/nextjs";
+import { NavbarTitle } from "./components/NavbarTitle";
 
 const inter = Inter({
   subsets: ["latin"],
