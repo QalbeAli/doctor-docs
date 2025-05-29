@@ -11,7 +11,7 @@
   "dependencies": {
     "@clerk/nextjs": "^6.20.1",
     "framer-motion": "^12.15.0",
-    "fumadocs-core": "15.4.2",
+    "fumadocs-core": "^15.4.2",
     "fumadocs-mdx": "11.6.6",
     "fumadocs-ui": "15.4.2",
     "next": "15.3.2",

@@ -1465,7 +1465,7 @@ framer-motion@^12.15.0:
     motion-utils "^12.12.1"
     tslib "^2.4.0"
 
-fumadocs-core@15.4.2:
+fumadocs-core@15.4.2, fumadocs-core@^15.4.2:
   version "15.4.2"
   resolved "https://registry.yarnpkg.com/fumadocs-core/-/fumadocs-core-15.4.2.tgz#c59284b8b74b98eadcca162cc6f56e1ec7a2e722"
   integrity sha512-PQlTM4HXAvy8qHMbIFucESYd8HZzjdGUFWwZigXgokAoX08LWDQa6LZ9Kvg/nXIpWV5t33r16Kl+S1JujOirAw==
