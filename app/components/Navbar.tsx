@@ -28,8 +28,8 @@ export function Navbar() {
       {/* Centered Sign In/Sign Up (hidden on /docs) */}
       {!isDocs && (
         <div className="flex-1 flex justify-center gap-2 cursor-pointer">
-          <SignInButton style={{ cursor: "pointer" }} />
-          <SignUpButton style={{ cursor: "pointer" }} />
+          <SignInButton />
+          <SignUpButton />
         </div>
       )}
       {/* User Button on the right */}
